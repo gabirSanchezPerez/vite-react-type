@@ -1,8 +1,8 @@
 
 const Home = () => {
     return (
-        <div>
-            Home desde files
+        <div className="">
+            Home desde files, con mas datos
         </div>
     );
 };
